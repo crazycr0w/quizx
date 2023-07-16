@@ -15,7 +15,7 @@ Quizx is a simple quiz tool implemented in Python. It allows you to play a quiz 
 
 ## Installation
 
-1. git clone https://github.com/your-username/quizx.git
+1. git clone https://github.com/your-username/quizx.git](https://github.com/crazycr0w/quizx.git
 2. cd quizx
 3. pip install art
 
