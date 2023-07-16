@@ -2,7 +2,7 @@
 
 Quizx is a simple quiz tool implemented in Python. It allows you to play a quiz by answering questions from a CSV file. The tool provides a command-line interface.
 
-print('hello)
+print('hello')
 
 ## Features
 
